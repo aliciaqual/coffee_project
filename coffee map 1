@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "large",
+        "marker-symbol": "cafe",
+        "name": "SML deli coffee shop",
+        "discount for your cup": "5%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "reusable paper caps",
+        "inst": "@sml_cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.595496475696564,
+          55.765412809665506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Veter grocery",
+        "discount for your coup": "no info",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "eco caps and tubules",
+        "inst": "@vetergrocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.588847279548645,
+          55.734498488042775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "large",
+        "marker-symbol": "cafe",
+        "name": "t [кофейня]",
+        "discount for your coup": "3%",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "milk Эковакино",
+        "inst": "@tecomoscow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.65148490667343,
+          55.7436912608549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Альпака и кофе",
+        "discount for your coup": "20%",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "eco tubules",
+        "inst": "@alpa.coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59501099586487,
+          55.747113837683244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "large",
+        "marker-symbol": "cafe",
+        "name": "Без рецепта",
+        "discount for your coup": "no info",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "раздельный сбор",
+        "inst": "@bez_recepta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.57153630256653,
+          55.75007419241305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Грамотный кофе",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "no info",
+        "inst": "@literate_coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60921597480773,
+          55.76605109620865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Кофе.советы",
+        "discount for your coup": "7%",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "no info",
+        "inst": "@coffee.soveti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61010378599167,
+          55.75281394320865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Кутята",
+        "discount for your coup": "no info",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "eco tubules",
+        "inst": "@kootyata.coffee.shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.655164897441864,
+          55.74834872994221
+        ]
+      }
+    }
+  ]
+}
