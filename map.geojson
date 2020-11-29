@@ -1,1 +1,446 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#03ad00","marker-size":"large","marker-symbol":"cafe","name":"SML deli coffee shop","discount for your cup":"5%","vegan":"yes","zerowaste goods":"yes","other":"reusable paper caps","inst":"@sml_cafe"},"geometry":{"type":"Point","coordinates":[37.595496475696564,55.765412809665506]}},{"type":"Feature","properties":{"marker-color":"#03ad00","marker-size":"medium","marker-symbol":"cafe","name":"Veter grocery","discount for your coup":"no info","vegan":"yes","zerowaste goods":"yes","other":"eco caps and tubules","inst":"@vetergrocery"},"geometry":{"type":"Point","coordinates":[37.588847279548645,55.734498488042775]}},{"type":"Feature","properties":{"marker-color":"#03ad00","marker-size":"large","marker-symbol":"cafe","name":"t [кофейня]","discount for your coup":"3%","vegan":"yes","zerowaste goods":"no","other":"milk Эковакино","inst":"@tecomoscow"},"geometry":{"type":"Point","coordinates":[37.65148490667343,55.7436912608549]}},{"type":"Feature","properties":{"marker-color":"#03ad00","marker-size":"medium","marker-symbol":"cafe","name":"Альпака и кофе","discount for your coup":"20%","vegan":"yes","zerowaste goods":"no","other":"eco tubules","inst":"@alpa.coffee"},"geometry":{"type":"Point","coordinates":[37.59501099586487,55.747113837683244]}},{"type":"Feature","properties":{"marker-color":"#03ad00","marker-size":"large","marker-symbol":"cafe","name":"Без рецепта","discount for your coup":"no info","vegan":"yes","zerowaste goods":"yes","other":"раздельный сбор","inst":"@bez_recepta"},"geometry":{"type":"Point","coordinates":[37.57153630256653,55.75007419241305]}},{"type":"Feature","properties":{"marker-color":"#03ad00","marker-size":"medium","marker-symbol":"cafe","name":"Грамотный кофе","discount for your coup":"10%","vegan":"yes","zerowaste goods":"no","other":"no info","inst":"@literate_coffee"},"geometry":{"type":"Point","coordinates":[37.60921597480773,55.76605109620865]}},{"type":"Feature","properties":{"marker-color":"#03ad00","marker-size":"medium","marker-symbol":"cafe","name":"Кофе.советы","discount for your coup":"7%","vegan":"yes","zerowaste goods":"no","other":"no info","inst":"@coffee.soveti"},"geometry":{"type":"Point","coordinates":[37.61010378599167,55.75281394320865]}},{"type":"Feature","properties":{"marker-color":"#03ad00","marker-size":"medium","marker-symbol":"cafe","name":"Кутята","discount for your coup":"no info","vegan":"yes","zerowaste goods":"no","other":"eco tubules","inst":"@kootyata.coffee.shop"},"geometry":{"type":"Point","coordinates":[37.655164897441864,55.74834872994221]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "large",
+        "marker-symbol": "cafe",
+        "name": "SML deli coffee shop",
+        "discount for your cup": "5%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "reusable paper caps",
+        "inst": "@sml_cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.595496475696564,
+          55.765412809665506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Veter grocery",
+        "discount for your coup": "no info",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "eco caps and tubules",
+        "inst": "@vetergrocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.588847279548645,
+          55.734498488042775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "large",
+        "marker-symbol": "cafe",
+        "name": "t [кофейня]",
+        "discount for your coup": "3%",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "milk Эковакино",
+        "inst": "@tecomoscow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.65148490667343,
+          55.7436912608549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Альпака и кофе",
+        "discount for your coup": "20%",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "eco tubules",
+        "inst": "@alpa.coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59501099586487,
+          55.747113837683244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "large",
+        "marker-symbol": "cafe",
+        "name": "Без рецепта",
+        "discount for your coup": "no info",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "раздельный сбор",
+        "inst": "@bez_recepta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.57153630256653,
+          55.75007419241305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Грамотный кофе",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "no info",
+        "inst": "@literate_coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60921597480773,
+          55.76605109620865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Кофе.советы",
+        "discount for your coup": "7%",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "no info",
+        "inst": "@coffee.soveti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61010378599167,
+          55.75281394320865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Кутята",
+        "discount for your coup": "no info",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "eco tubules",
+        "inst": "@kootyata.coffee.shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.655164897441864,
+          55.74834872994221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.67120718955993,
+          55.75213015565784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.671974301338196,
+          55.77564676899253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.64964759349823,
+          55.76072417665715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.63765811920165,
+          55.75402601398117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.63244926929474,
+          55.76107429682915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.622798681259155,
+          55.75716243075394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.63662278652191,
+          55.744950417542405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.64417588710785,
+          55.727681029484465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62675762176514,
+          55.72728227551782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61184453964233,
+          55.72171439892003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "SURF COFFEE",
+        "discount for your coup": "10%",
+        "vegan": "yes",
+        "zerowaste goods": "yes",
+        "other": "separate garbage collection",
+        "inst": "@surfcoffee.msk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.601303458213806,
+          55.73294903289134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "аэроплан.кофе",
+        "discount for your coup": "no",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "separate garbage collection",
+        "inst": "@aeroplancoffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62750864028931,
+          55.732592619302046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#03ad00",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Эклерная клер",
+        "discount for your coup": "no info",
+        "vegan": "yes",
+        "zerowaste goods": "no",
+        "other": "Обжарщик использует многоразовую упаковку для кофе",
+        "inst": "@eklernaykler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.63311982154846,
+          55.770447897346
+        ]
+      }
+    }
+  ]
+}
